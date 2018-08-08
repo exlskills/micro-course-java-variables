@@ -1,22 +1,22 @@
-url_name: basics_java
-display_name: Java Basics
+url_name: variables_java
+display_name: Java Variables
 org: EXLskills
-course: basics_java
+course: variables_java
 course_image: https://s3-us-west-2.amazonaws.com/exlskills-course-logos/ap-java-course.jpg
 language: en
 est_minutes: 3600
 primary_topic: Java
-repo_url: https://github.com/exlskills/course-java-basics
+repo_url: https://github.com/exlskills/micro-course-java-variables
 topics:
   - Java
   - Computer Science
   - CompSci
-headline: Learn basic Java programming with EXLskills!
-description: This is the EXLskills free and open-source Java Basics Course. It guides learners via explanation, demonstration, and thorough practice, from no more than a basic understanding of Java, to a moderate level of essential coding proficiency.
+headline: Learn how to use Java variables and operators with EXLskills!
+description: This is the EXLskills free and open-source Java Variables Micro Course. It guides learners via explanation, demonstration, and thorough practice, from no more than a basic understanding of Java, to a moderate level of understanding regarding Java variables and operators.
 info_md: |2
   # EXLskills Java Basics Course
 
-  This is the EXLskills free and open-source Java Basics Course. It guides learners via explanation, demonstration, and thorough practice, from no more than a basic understanding of Java, to a moderate level of essential coding proficiency.
+  This is the EXLskills free and open-source Java Variables Micro Course. It guides learners via explanation, demonstration, and thorough practice, from no more than a basic understanding of Java, to a moderate level of understanding regarding Java variables and operators.
 
   ## About EXLskills
 
@@ -47,7 +47,3 @@ info_md: |2
   ## Enterprise / Commercial Licensing & Support
 
   For enterprise licenses and/or support, please send an email enquiry to [enterprise@exlinc.com](mailto:enterprise@exlinc.com)
-
-  ## AP® / Collegeboard Disclaimer
-
-  AP® is a trademark owned by the College Board, which is not affiliated with, and does not endorse, this course.
