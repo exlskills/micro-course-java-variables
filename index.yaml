@@ -4,7 +4,7 @@ org: EXLskills
 course: variables_java
 course_image: https://s3-us-west-2.amazonaws.com/exlskills-course-logos/micro-course-java-variables.jpg
 language: en
-est_minutes: 3600
+est_minutes: 480
 primary_topic: Java
 repo_url: https://github.com/exlskills/micro-course-java-variables
 topics:
@@ -32,7 +32,7 @@ info_md: |2
 
   ## Contributing
 
-  All contributions in the form of pull-requests and issues are welcome and greatly appreciated :)
+  This repository was created from an upstream repository [EXLskills Java Basics Course](https://github.com/exlskills/course-java-basics). All contributions in the form of pull-requests and issues on the [EXLskills Java Basics Course](https://github.com/exlskills/course-java-basics) are welcome and greatly appreciated :) Please do not post issues in this repository.
 
   ## Translations
 
